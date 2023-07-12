@@ -57,7 +57,7 @@
 											<h5 class="card-title">Mobile number</h5>
 											<p class="card-text"><?php echo $profile['telpon_pelanggan'] ?></p>
 										</div>
-										<div class="col-sm-14">
+										<div class="col-sm-8">
 											<h5 class="card-title">Address</h5>
 											<p class="card-text"><?php echo $profile['alamat_pelanggan']?></p>
 											<h5 class="card-title">Photo Profile</h5>

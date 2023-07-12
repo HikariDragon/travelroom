@@ -16,7 +16,7 @@
 	<meta charset="UTF-8">
 	<!-- Log on to codeastro.com for more projects -->
 	<!-- Site Title -->
-	<title>BUS TICKET BOOKING</title>
+	<title>RoomTravel</title>
 	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
 	<!--
 		CSS
@@ -37,7 +37,7 @@
 				<div class="home__data">
 					<span class="home__data-subtitle">Discover your place</span>
 					<h1 class="home__data-title">Jelajahi <br> Pantai Terindah <br> Dipulau Jawa</h1>
-					<a href="#" class="button">Explore</a>
+					<a href="#" class="button">Jelajahi</a>
 
 				</div>
 

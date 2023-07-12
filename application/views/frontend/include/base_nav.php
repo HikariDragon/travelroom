@@ -9,6 +9,7 @@
 			<nav id="nav-menu-container">
 				<ul class="nav-menu">
 					<li class="menu"><a href="<?php echo base_url() ?>">Home</a></li>
+					<li><a href="<?php echo base_url() ?>wisata">Wisata</a></li>
 					<li><a href="<?php echo base_url() ?>tiket">Make Bookings</a></li>
 					<li class="menu"><a href="<?php echo base_url() ?>tiket/cektiket">Check Tickets</a></li>
 					<?php if ($this->session->userdata('username')) { ?>

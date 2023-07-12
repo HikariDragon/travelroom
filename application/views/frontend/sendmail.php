@@ -11,7 +11,7 @@
 			<tr class="header" style="background-color:#484B51;">
 				<td style="padding-right:10px;" align="left">
 					<a href="<?= base_url() ?>" target="_blank">
-						<h4>BUS TICKET BOOKING</h4>
+						<h4>RoomTravel</h4>
 					</a>
 				</td>
 				<td style="padding-right:10px;" align="right">
@@ -180,7 +180,7 @@
 									<p style="padding:10px;">
 										<br>
 										Best regards,<br>
-										<span style="color:#fd7521;"><strong>Bus Ticket Booking System</strong></span>
+										<span style="color:#fd7521;"><strong>RoomTravel System</strong></span>
 										<br>
 										<br>
 									</p>

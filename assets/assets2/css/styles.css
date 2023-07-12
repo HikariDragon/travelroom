@@ -186,6 +186,14 @@ input {
   margin-bottom: var(--mb-2);
 }
 
+.lainnya__title {
+  color: var(--title-color);
+  text-align: center;
+  text-transform: capitalize;
+  margin-bottom: var(--mb-2);
+  
+}
+
 .container {
   max-width: 968px;
   margin-left: var(--mb-1);
@@ -736,6 +744,8 @@ input {
   row-gap: 3rem;
 }
 
+
+
 .home__data-subtitle, 
 .home__data-title, 
 .home__social-link, 
@@ -1001,7 +1011,7 @@ input {
 
 .place__container {
   grid-template-columns: repeat(2, max-content);
-  justify-content: center;
+  justify-content: start;
 }
 
 .place__card {
@@ -1263,7 +1273,7 @@ input {
     justify-content: center;
   }
   .place__container {
-    grid-template-columns: repeat(3, max-content);
+    grid-template-columns: repeat(5, max-content);
   }
   .subscribe__form {
     width: 470px;
@@ -1327,8 +1337,20 @@ input {
     height: 100vh;
     grid-template-rows: 1.8fr .5fr;
   }
+  .lainnya__container {
+    height: 10vh;
+    
+    grid-template-rows: 1fr .2fr;
+  }
   .home__data {
     align-self: flex-end;
+
+  }
+
+  .lainnya__data {
+    align-self: center;
+    position: center;
+    
   }
   .home__social {
     flex-direction: row;
@@ -1393,6 +1415,10 @@ input {
   }
   .home__container {
     grid-template-rows: 2fr .5fr;
+  }
+
+  .lainnya__container {
+    grid-template-rows: 1fr .1fr;
   }
   .home__info {
     width: 328px;

@@ -129,6 +129,7 @@ sr.reveal(`.home__data, .home__social-link, .home__info,
            .experience__data, .experience__overlay,
            .place__card,
            .sponsor__content,
+           .lainnya__title,
            .footer__data, .footer__rights`,{
     origin: 'top',
     interval: 100,
